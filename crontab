@@ -1,0 +1,2 @@
+*/5 * * * * /usr/bin/duckdns.sh
+# crontab requires an empty line at the end of the file
