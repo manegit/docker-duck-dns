@@ -1,2 +1,2 @@
-wget -qO- "$@" https://duckdns.org/update/${DOMAIN}/${TOKEN} > /var/log/duckdns.org 2>&1
+wget -qO- "$@" https://duckdns.org/update/${DOMAIN}/${TOKEN} > /var/log/duckdns.log 2>&1
 
